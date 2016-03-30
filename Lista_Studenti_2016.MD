@@ -43,7 +43,7 @@ Grupa: 1221F
 |8)Fainaru Ioana Gabriela| http://github.com/IoanaFainaru25||
 |9)Filip Alexandra| http://github.com/Alexamariafilip||
 |10) Guran Carmen| http://github.com/GuranCarmen||
-|11)Ignat Mihai| http://github.com/IgnatMihai||
+|11)Ignat Mihai| https://github.com/IgnatMihai/ALF|https://github.com/IgnatMihai/SE|
 |12) Jugarean Carmen| http://github.com/CarmenJugarean95||
 |13)Lazar Adrian| http://github.com/AdrianLazar95||
 |14)Mitrica Gina Maria| http://github.com/MitricaGina||
@@ -67,5 +67,5 @@ Repository mini Proiecte TD SdE
 |<ol><li>Guran Carmen</li><li>Mitrica Gina Maria</li><li>Tudor Adelina</li></ol>|Machine de Turing||
 |<ol><li>Aldes Ana-Maria</li><li>Filip Alexandra</li><li>Nanu Maria</li></ol>|Generation d’un labyrinthe???||
 |<ol><li>Dumitru Robert</li><li> Lazar Adrian</li></ol>|Simulateur de trafic urbain||
-|<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li></ol>|Sudoku ???||
+|<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li><li>Fabrice Lepapi</li></ol>|Sudoku||
 |<ol><li>Popovici Fabian</li><li>Chebbi Wael</li><li>Tebibi Fatma</li></ol>|Facebook like counter ???||
